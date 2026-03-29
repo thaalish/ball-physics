@@ -1,0 +1,22 @@
+{
+	"name": "BallPhysics",
+	"emitLegacyScripts": false,
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage",
+			"BallPhysics": {
+				"$path": "src"
+			},
+			"Packages": {
+				"$path": "Packages"
+			},
+			"Setup": {
+				"$path": "dev"
+			},
+			"Tests": {
+				"$path": "test"
+			}
+		}
+	}
+}

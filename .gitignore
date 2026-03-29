@@ -1,0 +1,11 @@
+# Wally dependencies - installed locally, not committed
+Packages/
+
+# Rojo build output
+*.rbxm
+*.rbxl
+*.rbxlx
+
+# Roblox Studio lock files
+*.rbxlx.lock
+*.rbxl.lock

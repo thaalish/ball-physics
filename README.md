@@ -1,4 +1,4 @@
-# BallPhysics
+![Magnus Curve](https://github.com/user-attachments/assets/c887d5ec-1f01-45fb-bd00-afbbb5013d0b)# BallPhysics
 
 A physically-inspired ball physics library for Roblox. Applies Magnus effect, knuckleball drift, angular damping, and anti-gravity forces to tagged ball parts. Forces are modelled after real aerodynamic phenomena but tuned for gameplay feel.
 
@@ -14,20 +14,20 @@ This started as a private physics system I built for my own games. Exploiters ke
 
 A spinning ball curving sideways in flight.
 
-![Magnus Curve](https://github.com/user-attachments/assets/4a591c7a-692c-431f-a98b-c7f1f9a384cd)
+![Magnus Curve](https://github.com/user-attachments/assets/77bb2f07-9da9-490c-a8c0-8d7a57a20246)
 
 ### 🎥 Knuckleball drift
 
 A near-zero-spin ball drifting unpredictably.
 
-![Knuckle](https://github.com/user-attachments/assets/a5a74a3f-fa2c-4cfb-acb9-d1c439210acc)
+![Knuckle](https://github.com/user-attachments/assets/9fcf0f6e-79f8-42d6-b173-3b1074723cb7)
 
 ### 🎥 Topspin and backspin
 
 One ball dips early, the other floats.
 
-![Topspin](https://github.com/user-attachments/assets/34812b2a-a114-4155-bb18-8d7859430de3)
-![Backspin](https://github.com/user-attachments/assets/bede116a-65da-4c06-9b7c-f8dd9974bc7d)
+![Top Spin](https://github.com/user-attachments/assets/f2a21547-7e25-47c2-a943-6820afdd8ae2)
+![Back Spin](https://github.com/user-attachments/assets/f254839b-59ed-4316-a03d-dfa90f5d4a20)
 
 ---
 

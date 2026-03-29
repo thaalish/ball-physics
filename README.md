@@ -1,3 +1,5 @@
+# BallPhysics - Aerodynamic ball physics for Roblox
+
 A physically-inspired ball physics library for Roblox. Applies Magnus effect, knuckleball drift, angular damping, and anti-gravity forces to tagged ball parts. Forces are modelled after real aerodynamic phenomena but tuned for gameplay feel.
 
 Simulation runs on whichever machine owns the ball's network physics - the library handles ownership handoff between server and clients automatically.
